@@ -1,0 +1,44 @@
+.content {
+
+    
+    .blog {
+
+        h1 {
+            text-align: center;
+        }
+    
+        a {
+            cursor: pointer;
+            margin-top: 12em;
+
+            
+            h3 {
+                color: hsl(0, 0%, 25%);
+                font-size: 1.55em;
+                margin-bottom: 0;
+                margin-top: 3em;
+                text-decoration: underline #074866;
+
+                &:hover {
+                    opacity: .8;
+                }
+            }
+        }
+
+        sub {
+            font-size: .7em;
+            margin-bottom: 8em;
+            font-weight: bold;
+            color: #074866;
+
+        }
+
+        p {
+            cursor: pointer;
+            margin-top: 1em;
+            cursor: pointer;
+            margin-bottom: 3em;
+            font-size: .95em;
+        }
+    }
+}

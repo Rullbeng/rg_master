@@ -1,0 +1,19 @@
+---
+layout: default
+title: "A Website Development & Website Design Blog by Ruben Gutierrez."
+description: I provide information for people looking to invest in creating a website, along with providing tutorials and information to website developers and designers.
+permalink: /blog
+---
+
+<div class="content" id="mainContent">
+    <div class="inner-container blog">
+        <h1>A Collection of My Thoughts</h1>
+        {% for post in site.posts %}
+        <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+        <sub>{{ post.date | date: '%B %d, %Y' }}</sub>
+        <br>
+        <p>{{ post.description | strip_html | truncatewords: 30 }}</p>            
+        {% endfor %}
+    </div>
+</div>
+

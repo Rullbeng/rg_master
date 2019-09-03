@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Navbar with HTML, CSS, & JavaScript"
+description: A tutorial about creating a navigation bar with just HTML and CSS (SCSS) for a website.  This includes using CSS modules like Flexbox and Media Queries.
+permalink: /Tutorial-Navbar-Bar-HTML-CSS-JavaScript
+date:   2019-08-24 09:56:51 -0700
+---
+### HTML
+
+Here is a very simple way of constructing a Responsive navigation bar with the basics. 
+
+First you want to start of by creating the HTML structure.
+
+    <div class="logo">
+        
+    </div>
+    <div class="navigation__laptop">
+
+    </div>
+    <div class="navigation__hamburger__menu">
+        
+    </div>
+
+### CSS
+
+<p class="codepen" data-height="378" data-theme-id="dark" data-default-tab="html,result" data-user="Rullben" data-slug-hash="KKPWyYX" data-preview="true" style="height: 378px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="KKPWyYX">
+  <span>See the Pen <a href="https://codepen.io/Rullben/pen/KKPWyYX/">
+  KKPWyYX</a> by Ruben (<a href="https://codepen.io/Rullben">@Rullben</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
