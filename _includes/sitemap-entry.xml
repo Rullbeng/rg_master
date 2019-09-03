@@ -6,4 +6,7 @@
     {% if include.entry.priority %}
         <priority>{{include.entry.priority}}</priority>
     {% endif %}
+    {% if include.entry.description %}
+        <description>{{include.entry.description}}</description>
+    {% endif %}
 </url>
