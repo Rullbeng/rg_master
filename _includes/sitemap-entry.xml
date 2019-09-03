@@ -7,6 +7,6 @@
         <priority>{{include.entry.priority}}</priority>
     {% endif %}
     {% if include.entry.description %}
-        <description>{{include.entry.description}}</description>
+        <p>{{include.entry.description}}</p>
     {% endif %}
 </url>
