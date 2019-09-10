@@ -389,9 +389,7 @@ body.fade {
    padding-right: 2em;
 }
 
-p {
-   font-family: 'Crimson Text', serif !important;
-}
+
 
 a:visited {
    color: #3f3f3f;
@@ -405,6 +403,8 @@ h1,h2,h3,h4,h5,h6 {
 
 p {
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+   color: #3f3f3f;
+   text-align: justify;
 }
 
 .page-content {

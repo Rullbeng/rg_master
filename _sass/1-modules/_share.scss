@@ -1,0 +1,18 @@
+.share {
+    margin-top: 3em;
+    
+
+    a {
+        color: #074866;
+        margin: 0 1em;
+
+        &:active {
+            color: #074866;
+        }
+
+        &:focus {
+            color:#074866;
+            outline: none;
+        }
+    }
+}

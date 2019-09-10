@@ -2,11 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     
+     
+      <url>
+    <loc>https://www.ruben-gz.com/Website-Making-Guide</loc>
+    
+    
+</url>
+     
+    
 
     
      
       <url>
-    <loc>/web-developer//404.html</loc>
+    <loc>https://www.ruben-gz.com/404.html</loc>
     
     
 </url>
@@ -16,7 +24,7 @@
     
      
       <url>
-    <loc>/web-developer//blog</loc>
+    <loc>https://www.ruben-gz.com/blog</loc>
     
     
 </url>
@@ -24,7 +32,7 @@
     
      
       <url>
-    <loc>/web-developer//contact</loc>
+    <loc>https://www.ruben-gz.com/contact</loc>
     
     
 </url>
@@ -32,7 +40,7 @@
     
      
       <url>
-    <loc>/web-developer//</loc>
+    <loc>https://www.ruben-gz.com/</loc>
     
     
 </url>

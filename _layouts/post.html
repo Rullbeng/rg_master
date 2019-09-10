@@ -17,8 +17,8 @@ layout: default
 
   <div class="post-content e-content" id="mainContent" itemprop="articleBody">
     {{ content }}
+    {%- include share.html -%}
     {%- include bio.html -%}
-
   </div>
 
   {%- if site.disqus.shortname -%}
