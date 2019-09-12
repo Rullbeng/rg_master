@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An 8 Step Guide to Making Websites (With Images)"
+title:  "Creating A Business Website, In 8 Easy Steps (With Images)"
 description: A guide for people looking to make a website for their business or to expand their audience online. This guide will help you get started marketing online, from concept to code.
 permalink: /Website-Making-Guide
 date:   2019-09-10 11:34:00 -0700
