@@ -7,9 +7,9 @@ date:   2019-09-14 11:20:00 -0700
 author: Ruben Gutierrez
 ---
 
-Making a website can seem a little intimidating if you’ve never had to make one before, but I’m here to tell you it doesn’t have to be so hard.  Familiarizing yourself with the website making process can be a great skill to learn if you’re interested in making money online or building an audience.  This guide is intended to help someone who’s hiring developers and designer to make their website, but can also be used by a person who’s looking to make their own website.
+Making a website can seem a little intimidating if you’ve never had to make one before, but I’m here to tell you it doesn’t have to be so hard.  Familiarizing yourself with the website making process can be a great skill to learn if you’re interested in making money online or building an audience of eventual customers.  
 
-If you own a smaller business and your looking to expand your operation creating a website can be a very beneficial step in that direction. Not only will it help you gain attention online and around the world but it’ll help you be recognized in your local community.    
+If you own a smaller business and your looking to expand your operation, creating a website can be a very beneficial step in that direction. Not only will it help you gain attention online and around the world but it’ll help you be recognized in your local community.    
 
 In this article I’ve condensed the process into 5 steps that make it a lot easier to understand if your new to online marketing. 
 
