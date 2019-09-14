@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Get More Customers Without Selling Your Kidney"
+title: "How to Get More Customers Without Selling Your Kidney To AdWords"
 description: Spend less time worrying about getting customers and more time on your business by making a website.
 permalink: /Website-Making-Guide-Keep-Kidney
 date:   2019-09-14 11:20:00 -0700
