@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Creating A Business Website In 8 Easy Steps (With Images)"
-description: A guide for people looking to make a website for their business or to expand their audience online. This guide will help you get started marketing online, from concept to code.
+title: "How to Get More Customers Without Selling Your Kidney"
+description: Spend less worrying about getting customers and more time on your business by making a website.
 permalink: /Website-Making-Guide
 date:   2019-09-10 11:34:00 -0700
 author: Ruben Gutierrez
@@ -58,7 +58,9 @@ Creating content for you websites ranges all the way from deciding on images and
 
 Writing and creating the content for a website is a step that can occur anywhere along the process but is usually implemented after wire framing and right before the final designs and development are done.  
 
-You’re usually required to provide the information that is going to be displayed on the website but can hire outside sources to help.  If nothing else you can create the content for your website, after all who knows your business and line of work better than you? 
+You’re usually required to provide the information that is going to be displayed on the website but can hire outside sources to help.  If nothing else you can create the content for your website,after all who knows your business and line of work better than you?
+
+Posting new content in the form of blog post is a great way to stay connected with your customers and to gain some new one.  Blog post can make you look well informaed and can be very resourceful for anyone interested.
 
 ## Step 5 Final Design
 
@@ -107,6 +109,6 @@ After you’ve gone over this list and everything is good your developer can dep
 
 ![website maintenance gear icons](assets\img\blog-images\19-september\website-maintenance-gear-icon.png "Website Maintenenace Gear Icon")
 
-When a website finally goes up it’s important to remember that the work hasn’t ended yet.  Although a website usually functions well when properly put together things happen overtime (e.g. code becomes outdated, content management systems update, layouts become yesterday’s look, information edits  etc…)
+When a website finally goes up it’s important to remember that the work hasn’t ended yet.  Although a website usually functions well when properly put together things happen overtime (e.g. code becomes outdated, content management systems update, layouts become yesterday’s look, information edits etc…)
 
 It’s important to keep an eye on your website and to hire the right people to work on it to keep it modern and secure. 
