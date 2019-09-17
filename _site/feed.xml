@@ -1,81 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-13T04:51:36-07:00</updated><id>http://localhost:4000/feed.xml</id><subtitle></subtitle><entry><title type="html">Creating A Business Website In 8 Easy Steps (With Images)</title><link href="http://localhost:4000/Website-Making-Guide" rel="alternate" type="text/html" title="Creating A Business Website In 8 Easy Steps (With Images)" /><published>2019-09-10T11:34:00-07:00</published><updated>2019-09-10T11:34:00-07:00</updated><id>http://localhost:4000/Guide-Website-Building</id><content type="html" xml:base="http://localhost:4000/Website-Making-Guide">&lt;p&gt;Making a website can seem a little intimidating if you’ve never had to make one before, but I’m here to tell you it doesn’t have to be so hard.  Familiarizing yourself with the website making process can be a great skill to learn if you’re interested in making money online or building an audience.  This guide is intended to help someone who’s hiring developers and designer to make their website, but can also be used by a person who’s looking to make their own website.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-17T16:45:09-07:00</updated><id>http://localhost:4000/feed.xml</id><subtitle></subtitle><entry><title type="html">How to Get More Customers Without Selling Your Kidney To AdWords</title><link href="http://localhost:4000/Website-Making-Guide-Keep-Kidney" rel="alternate" type="text/html" title="How to Get More Customers Without Selling Your Kidney To AdWords" /><published>2019-09-14T11:20:00-07:00</published><updated>2019-09-14T11:20:00-07:00</updated><id>http://localhost:4000/Guide-Website-Building</id><content type="html" xml:base="http://localhost:4000/Website-Making-Guide-Keep-Kidney">&lt;p&gt;Making a website can seem a little intimidating if you’ve never had to make one before, but I’m here to tell you it doesn’t have to be so hard.  Familiarizing yourself with the website making process can be a great skill to learn if you’re interested in making money online or building an audience of eventual customers.&lt;/p&gt;
 
-&lt;p&gt;If you own a smaller business and your looking to expand your operation creating a website can be a very beneficial step in that direction. Not only will it help you gain attention online and around the world but it’ll help you be recognized in your local community.&lt;/p&gt;
+&lt;p&gt;If you own a smaller business and your looking to expand your operation, creating a website can be a very beneficial step in that direction. Not only will it help you gain attention online and around the world but it’ll help you be recognized in your local community.&lt;/p&gt;
 
 &lt;p&gt;In this article I’ve condensed the process into 5 steps that make it a lot easier to understand if your new to online marketing.&lt;/p&gt;
 
-&lt;p&gt;The timeline can look something like this. (Insert a picture)&lt;/p&gt;
+&lt;p&gt;The timeline can look something like this.&lt;/p&gt;
 
-&lt;h2 id=&quot;step-1-collecting-information-about-the-purpose-and-goals-of-your-website--brain-storming&quot;&gt;Step 1 Collecting Information About The Purpose and Goals of Your Website / Brain Storming&lt;/h2&gt;
+&lt;h2 id=&quot;step-1-collecting-information-about-the-purpose-and-goals-of-your-website&quot;&gt;Step 1 Collecting Information About The Purpose and Goals of Your Website&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets\img\blog-images\19-september\business-owner-developer-initial-meeting.png&quot; alt=&quot;website development initial meeting&quot; title=&quot;Initial Website Meeting&quot; /&gt;&lt;/p&gt;
 
+&lt;h4 id=&quot;establish-intent--goals&quot;&gt;Establish Intent &amp;amp; Goals&lt;/h4&gt;
 &lt;p&gt;Before any coding or designing ever gets done you need to have a conversation with the people creating your website about the purpose of your website and what it is your hope to achieve.&lt;/p&gt;
 
+&lt;h4 id=&quot;brain-storming&quot;&gt;Brain Storming&lt;/h4&gt;
 &lt;p&gt;This initial part of the process is particularly important because it helps you establish how your website is going to look and feel.  An online shoe retailers website looks  and presents information different than a business whos focus is on plumbing services.&lt;/p&gt;
 
+&lt;h4 id=&quot;creating-a-vision&quot;&gt;Creating A Vision&lt;/h4&gt;
 &lt;p&gt;Detailing your exact needs provides a mental image for the developers and designer who’ll create the website you want with the visuals and features you need.&lt;/p&gt;
 
-&lt;h2 id=&quot;step-2-creating-a-sitemap-of-your-website&quot;&gt;Step 2 Creating A Sitemap of Your Website&lt;/h2&gt;
+&lt;h2 id=&quot;step-2-site-map--website-foundation&quot;&gt;Step 2 Site Map / Website Foundation&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets\img\blog-images\19-september\site-map-example.png&quot; alt=&quot;website site map example&quot; title=&quot;site map example&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;After you’ve established intent and goals with the developer your next step is to create a site map of your website with them.&lt;/p&gt;
+&lt;h4 id=&quot;creating-a-site-map&quot;&gt;Creating A Site Map&lt;/h4&gt;
+&lt;p&gt;After you’ve established intent and goals with the developer the next step is create a site map of your website with them.&lt;/p&gt;
 
+&lt;h4 id=&quot;what-is-a-site-map&quot;&gt;What is A site map?&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;What is a site map? A site map is a visual  representation of the  fundamental building blocks of your website. Site maps lay the foundation of your web site by visualizing the pages it’ll contain (e.g. about page, home page, blog page, etc…) along with establishing what will be inside of those main pages (e.g. the articles on the blog page, the sections on your about page, etc…)&lt;/em&gt;&lt;/p&gt;
 
+&lt;h4 id=&quot;how-does-a-site-map-help&quot;&gt;How does a site map help?&lt;/h4&gt;
 &lt;p&gt;Site mapping is an important process because it helps you understand how the users are going to navigate through your website, it can aid in creating a more navigable and better experience for them as well.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-3-wire-framing--website-mockup&quot;&gt;Step 3 Wire Framing / Website Mockup&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets\img\blog-images\19-september\wire-frame-desktop-mobile-example.png&quot; alt=&quot;wire frame and website mock ups example for desktop and mobile website&quot; title=&quot;Wire frame mock ups for website on mobile and laptop&quot; /&gt;&lt;/p&gt;
 
+&lt;h4 id=&quot;creating-a-wire-frame&quot;&gt;Creating A Wire Frame&lt;/h4&gt;
 &lt;p&gt;The next step involves taking all the information about your sitemap and allowing the developer to create wire frames of your website.&lt;/p&gt;
 
+&lt;h4 id=&quot;what-is-a-wire-frame&quot;&gt;What is a wire frame?&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;What is a wire frame? A wire frame is a basic mockup of your website without all the content, they let you get a good idea of what your websites interface is going to look like.&lt;/em&gt;&lt;/p&gt;
 
+&lt;h4 id=&quot;how-does-a-wire-frame-help-in-creating-a-website&quot;&gt;How does a wire frame help in creating a website?&lt;/h4&gt;
 &lt;p&gt;Wire framing is important because it helps build a visual hierarchy of your content. Wire frames let you get a good idea of how your users are going to process your information. They can help you and the developer create the best approach to presenting your content without including design visuals like font types, logos, images, and colors.&lt;/p&gt;
 
-&lt;p&gt;Wire frames also help you understand how your website is going to respond on mobile devices.  By framing your website you can really be in control of how your website is going to form and adapt to fit different devices.&lt;/p&gt;
+&lt;h4 id=&quot;wire-frames-for-tablets-and-mobile&quot;&gt;Wire Frames for Tablets and Mobile&lt;/h4&gt;
+&lt;p&gt;Wire frames also help you understand how your website is going to respond on mobile devices.  By framing your website you can be in control of how your website is going to form and adapt to fit different devices.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-4-creating-content-for-your-website&quot;&gt;Step 4 Creating Content For Your Website&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets\img\blog-images\19-september\Web-content-video-written-gallery-example-icons.png&quot; alt=&quot;website content examples image&quot; title=&quot;Diffrent types of content for your website&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Making content for your website in my opinion is the most important part of the process.  Here you can get a good sense of how well your website is going to perform especially in search engines like Google, Bing, &amp;amp; Yahoo.&lt;/p&gt;
+&lt;h4 id=&quot;how-does-web-content-help-my-website&quot;&gt;How does web content help my website?&lt;/h4&gt;
+&lt;p&gt;Making content for your website in my opinion the most important part of the process.  Here you can get a good sense of how well your website is going to perform especially in the search engines like Google, Bing, &amp;amp; Yahoo.  If you have good informative content that people like and frequent then you can expect to see a rise in visits. The longer someone stays on your website, the more likely they are to purchase your products or services.&lt;/p&gt;
 
-&lt;p&gt;Creating content for you websites ranges all the way from deciding on images and page introduction to creating informative visual and written articles that help your users solve their problems.&lt;/p&gt;
+&lt;h4 id=&quot;what-is-website-content&quot;&gt;What is website content?&lt;/h4&gt;
+&lt;p&gt;Content for you websites ranges all the way from deciding on images and page headers and introduction to creating informative visual and written articles.  Content can also be more leisure things like funny images and videos, it all really depends on what field your in.&lt;/p&gt;
 
+&lt;h4 id=&quot;creating-content-timeline&quot;&gt;Creating Content Timeline&lt;/h4&gt;
 &lt;p&gt;Writing and creating the content for a website is a step that can occur anywhere along the process but is usually implemented after wire framing and right before the final designs and development are done.&lt;/p&gt;
 
-&lt;p&gt;You’re usually required to provide the information that is going to be displayed on the website but can hire outside sources to help.  If nothing else you can create the content for your website, after all who knows your business and line of work better than you?&lt;/p&gt;
+&lt;h4 id=&quot;who-should-write-the-content-on-my-website&quot;&gt;Who should write the content on my website?&lt;/h4&gt;
+&lt;p&gt;You’re usually required to provide the information/content that is going to be displayed on the website.You can also hire outside sources to help you and in rare occasion ask the developer.  If nothing else you can create the content for your website, after all who knows your business and line of work better than you?&lt;/p&gt;
+
+&lt;h4 id=&quot;posting-new-content&quot;&gt;Posting New Content&lt;/h4&gt;
+&lt;p&gt;Posting new content is a great way to stay connected with your customers and to gain some new one.  Blog post can make you look well informed and can be very resourceful to your returning users, it also serves as way of letting people know your still active on your site and are ready for business.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-5-final-design&quot;&gt;Step 5 Final Design&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets\img\blog-images\19-september\final-website-design-example.png&quot; alt=&quot;Final website design for web development&quot; title=&quot;Website Final Designs&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Now that you have both the content and rough layouts of your website you can move on to talking to the designer about how to best present your website.&lt;/p&gt;
+&lt;h4 id=&quot;discussing-the-design&quot;&gt;Discussing the Design&lt;/h4&gt;
+&lt;p&gt;Now that you have both the content and rough layout of your website you can talk to the designer about how to best present your website.&lt;/p&gt;
 
-&lt;p&gt;The design portion of making a website includes deciding on features like colors, element sizing, animation types, fonts, and graphic designs.  Everything discussed in the first step  (Step #1 Collecting Information About The Purpose and Goals of Your Website)  should be kept at the front of yours and the designers mind when creating the final design.&lt;/p&gt;
+&lt;h4 id=&quot;finalizing-appearance&quot;&gt;Finalizing Appearance&lt;/h4&gt;
+&lt;p&gt;The design portion of creating a website includes deciding on features like colors, element sizing, animation types, fonts, and graphic designs.  Everything discussed in the first step  (Step #1 Collecting Information About The Purpose and Goals of Your Website)  should be kept at the front of yours and the designers mind when creating the final design.&lt;/p&gt;
 
+&lt;h4 id=&quot;final-design-before-production&quot;&gt;Final Design Before Production&lt;/h4&gt;
 &lt;p&gt;The final rendition of your website should include everything decided up until this point. It’s the clearest picture of your website until it’s actually developed in the browser.&lt;/p&gt;
 
-&lt;p&gt;Your feed is important to the designer, adjustments should be made accordingly.&lt;/p&gt;
+&lt;h4 id=&quot;client-approval&quot;&gt;Client Approval&lt;/h4&gt;
+&lt;p&gt;Your feedback is important to the designer, adjustments should be made accordingly.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-6-website-development--coding&quot;&gt;Step 6 Website Development / Coding&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets\img\blog-images\19-september\website-coding-programming.png&quot; alt=&quot;Images of People Programming a Website&quot; title=&quot;Web Development Process&quot; /&gt;&lt;/p&gt;
 
+&lt;h4 id=&quot;coding-the-website&quot;&gt;Coding the Website&lt;/h4&gt;
 &lt;p&gt;After you’ve given the approval to the final design comes the step most people are familiar with, coding the website.  Here the web developers takes all the designs, features and ideas and programs the final version of your website.  They should keep in mind everything you’ve requested and implement your ideas using the appropriate tools and code.&lt;/p&gt;
 
+&lt;h4 id=&quot;familiarizing-yourself-with-the-tools&quot;&gt;Familiarizing Yourself with The Tools&lt;/h4&gt;
 &lt;p&gt;Depending on your needs the developer should brief you on what tools fit best for you, understanding the tools can be the difference between spending a few dozen dollars or spending nothing at all in order to edit your website.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-7-deployment-checklist&quot;&gt;Step 7 Deployment Checklist&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets\img\blog-images\19-september\website-deployment-checklist.png&quot; alt=&quot;A website checklist for deployment&quot; title=&quot;Website Deployment Checklist&quot; /&gt;&lt;/p&gt;
 
+&lt;h4 id=&quot;reviewing-details&quot;&gt;Reviewing Details&lt;/h4&gt;
 &lt;p&gt;Before your website goes live on the internet, you and the developer should run through a checklist to make sure everything’s in order and assure everything goes smoothly.&lt;/p&gt;
 
+&lt;h4 id=&quot;pre-deployment-website-checklist&quot;&gt;Pre Deployment Website Checklist&lt;/h4&gt;
 &lt;p&gt;Your checklist should look something like this.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -92,12 +117,15 @@
   &lt;li&gt;Set up analytics to track website visitors&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h4 id=&quot;deploying-website&quot;&gt;Deploying Website&lt;/h4&gt;
 &lt;p&gt;After you’ve gone over this list and everything is good your developer can deploy your website to a server.  Most people upload their website to a remote server for a fee, but you can also use other options like Github Pages and deploy a live static website for free.&lt;/p&gt;
 
 &lt;h2 id=&quot;step-8-maintenance&quot;&gt;Step 8 Maintenance&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets\img\blog-images\19-september\website-maintenance-gear-icon.png&quot; alt=&quot;website maintenance gear icons&quot; title=&quot;Website Maintenenace Gear Icon&quot; /&gt;&lt;/p&gt;
 
+&lt;h4 id=&quot;ongoing-maintenance--updating&quot;&gt;Ongoing Maintenance &amp;amp; Updating&lt;/h4&gt;
 &lt;p&gt;When a website finally goes up it’s important to remember that the work hasn’t ended yet.  Although a website usually functions well when properly put together things happen overtime (e.g. code becomes outdated, content management systems update, layouts become yesterday’s look, information edits etc…)&lt;/p&gt;
 
-&lt;p&gt;It’s important to keep an eye on your website and to hire the right people to work on it to keep it modern and secure.&lt;/p&gt;</content><author><name>Ruben Gutierrez</name></author><summary type="html">Making a website can seem a little intimidating if you’ve never had to make one before, but I’m here to tell you it doesn’t have to be so hard. Familiarizing yourself with the website making process can be a great skill to learn if you’re interested in making money online or building an audience. This guide is intended to help someone who’s hiring developers and designer to make their website, but can also be used by a person who’s looking to make their own website.</summary></entry></feed>
+&lt;h4 id=&quot;hiring-the-right-people&quot;&gt;Hiring the Right People&lt;/h4&gt;
+&lt;p&gt;It’s important to keep an eye on your website and to hire the right people to work on it to keep it modern and secure.&lt;/p&gt;</content><author><name>Ruben Gutierrez</name></author><summary type="html">Making a website can seem a little intimidating if you’ve never had to make one before, but I’m here to tell you it doesn’t have to be so hard. Familiarizing yourself with the website making process can be a great skill to learn if you’re interested in making money online or building an audience of eventual customers.</summary></entry></feed>
