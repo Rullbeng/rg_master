@@ -13,7 +13,7 @@ If you own a smaller business and your looking to expand your operation, creatin
 
 In this article I’ve condensed the process into 5 steps that make it a lot easier to understand if your new to online marketing. 
 
-The timeline can look something like this. (Insert a picture)   
+The timeline can look something like this.    
 
 ## Step 1 Collecting Information About The Purpose and Goals of Your Website / Brain Storming 
 
@@ -52,7 +52,7 @@ Wire frames also help you understand how your website is going to respond on mob
 
 ![website content examples image](assets\img\blog-images\19-september\Web-content-video-written-gallery-example-icons.png "Diffrent types of content for your website")
 
-Making content for your website in my opinion is the most important part of the process.  Here you can get a good sense of how well your website is going to perform especially in search engines like Google, Bing, & Yahoo.
+Making content for your website in my opinion the most important part of the process.  Here you can get a good sense of how well your website is going to perform especially in the search engines like Google, Bing, & Yahoo.
 
 Creating content for you websites ranges all the way from deciding on images and page introduction to creating informative visual and written articles that help your users solve their problems. 
 
