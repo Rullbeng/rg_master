@@ -4,14 +4,14 @@ title: "How to Get More Customers Without Selling Your Kidney To AdWords"
 description: Spend less time worrying about getting customers and more time focused on your business by making a website with this guide. A guide to website marketing.
 permalink: /Website-Making-Guide-Keep-Kidney
 date:   2019-09-17 16:20:00 -0700
-
 author: Ruben Gutierrez
 ---
 ![satire image of google ads taking kidney](assets\img\blog-images\19-september\google-ads-taking-kidney-cartoon.png "Google Ads Kidney Cartoon")
 
-Making a website can seem a little intimidating if you’ve never had to make one before, but I’m here to tell you it doesn’t have to be so hard.  Familiarizing yourself with the website making process can be a great skill to learn if you’re interested in making money online or building an audience of eventual customers.  
+Making a website can seem a little intimidating if you’ve never had to make one before, but I’m here to tell you it doesn’t have to be so hard.  Familiarizing yourself with the process of making a website can be a great skill to learn if you’re interested in making money online or creating & expanding an audience of people interested in your craft.
 
-If you own a smaller business and your looking to expand your operation, creating a website can be a very beneficial step in that direction. Not only will it help you gain attention online and around the world but it’ll help you be more recognizable in your local community.    
+
+If you own a small business and your looking to expand your reach, creating a website can be a very beneficial step in that direction. Not only will it help you gain attention online  and around the globe but it’ll help you be more recognizable in your local community, which is obviously more important to smaller businesses who rely on those around them.
 
 In this article I’ve condensed the process into 8 steps that make it a lot easier to understand if your new to online marketing. 
 
