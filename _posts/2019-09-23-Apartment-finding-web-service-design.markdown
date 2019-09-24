@@ -10,7 +10,7 @@ author: Ruben Gutierrez
 
 <br>
 
-![image of google ads taking kidney cartoon](assets\img\blog-images\19-september\apartment-finding-web-app-service-design-free-adobe-xd-min.jpg "Apartment Finding Website Application Design")
+![web design of apartment finding service realtor](assets\img\blog-images\19-september\apartment-finding-web-app-service-design-free-adobe-xd-min.jpg "Apartment Finding Website Application Design")
 
 ## Free For Commercial Use
 Please link my website when using this template for any reason [ruben-gz.com](https://www.ruben-gz.com)
