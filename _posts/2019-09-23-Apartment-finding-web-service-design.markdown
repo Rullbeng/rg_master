@@ -10,7 +10,11 @@ author: Ruben Gutierrez
 
 <br>
 
-![web design of apartment finding service realtor](assets\img\blog-images\19-september\apartment-finding-web-app-service-design-free-adobe-xd-min.jpg "Apartment Finding Website Application Design")
+![web design of apartment finding service realtor adobe xd free download](assets\img\blog-images\19-september\apartment-finding-web-app-service-design-free-adobe-xd-design.jpg "Apartment Finding Website Application Design")
+
+![web design of apartment finding service realtor adobe xd free download desktop version](assets\img\blog-images\19-september\apartment-finding-service-web-design-desktop.jpg "Apartment Finding Website Application Desktop Design")
+
+![web design of apartment finding service realtor adobe xd free download mobile version](assets\img\blog-images\19-september\apartment-finding-web-app-serice-design-free-adobe-xd-mobile-design.jpg  "Apartment Finding Website Application Design Mobile Responsive")
 
 ## Free For Commercial Use
 Please link my website when using this template for any reason [ruben-gz.com](https://www.ruben-gz.com)
